@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=3rd+Year+Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;DSA+%7C+Problem+Solving;Actively+Preparing+for+Internships+%26+Placements" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=3rd+Year+CS+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;DSA+%7C+Problem+Solving;Actively+Preparing+for+Internships+%26+Placements" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **3rd Year Computer Science** student
+- 🎓 **3rd Year Computer Science** undergraduate
 - 💻 Interested in **Software Development & Backend Engineering**
-- 🧠 Practicing **DSA regularly** (C++ focused)
+- 🧠 Practicing **DSA regularly (C++ focused)**
 - 🌐 Building **Full-Stack Web Applications**
 - 🎯 Preparing for **Internships & Placements**
 
@@ -52,7 +52,19 @@
 ## 🧠 DSA & Problem Solving
 - Strong in **Arrays, Strings, Sliding Window**
 - Learning **Trees, Heaps, Graphs**
-- Practicing problems on **LeetCode / CodeStudio**
+- Regular practice on **LeetCode**
+
+### 🟠 LeetCode Profile
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+
+---
+
+## 📌 Pinned Projects (Highlight These 👇)
+📍 *Pin these repositories on GitHub for maximum impact*
+
+- 🚀 **Full Stack MERN App** – Auth, CRUD, REST APIs  
+- ⚙️ **Backend API Project** – Node, Express, MongoDB  
+- 🧠 **DSA in C++** – Interview-focused problems  
 
 ---
 
@@ -72,12 +84,9 @@
 
 ---
 
-## 📌 Projects
-- Full-Stack MERN Applications
-- Backend APIs
-- DSA Implementations in C++
-
-👉 Check pinned repositories below 👇
+## 📄 Resume
+📌 **View my resume:**  
+👉 https://drive.google.com/file/d/YOUR_RESUME_LINK/view
 
 ---
 
@@ -86,13 +95,13 @@
 <a href="https://github.com/Ashutosh-aky-2004">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 ---
 
-⭐ **Career Goal:** Secure a **Software Development Internship / Entry-Level SDE role**.
+⭐ **Career Goal:** Secure a **Software Development Internship / Entry-Level SDE role**
 
 💡 *“Consistency compounds over time.”*

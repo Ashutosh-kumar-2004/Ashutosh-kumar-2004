@@ -55,7 +55,7 @@
 - Regular practice on **LeetCode**
 
 ### 🟠 LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/ashutoshyadav202004)
 
 ---
 

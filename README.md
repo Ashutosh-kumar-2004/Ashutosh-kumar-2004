@@ -17,7 +17,7 @@
 - 🧠 Practicing **DSA regularly (C++ focused)**
 - 🌐 Building **Full-Stack Web Applications**
 - 🎯 Preparing for **Internships & Placements**
-
+- 🌟 **Portfolio:** [ashutosh-kumar-2004.github.io/myportfolio](https://ashutosh-kumar-2004.github.io/myportfolio/)
 ---
 
 ## 🛠️ Tech Stack
@@ -86,7 +86,7 @@
 
 ## 📄 Resume
 📌 **View my resume:**  
-👉 https://drive.google.com/file/d/YOUR_RESUME_LINK/view
+👉 [View Resume](https://drive.google.com/file/d/1l4rzJZ0ZM_55oPJR6Uo-Oi0EI8wQGwxG/view)
 
 ---
 

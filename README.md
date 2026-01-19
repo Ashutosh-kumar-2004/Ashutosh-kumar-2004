@@ -2,7 +2,7 @@
 <h3 align="center">3rd Year Computer Science Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashutosh-aky-2004&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ashutosh-kumar-2004&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
@@ -71,15 +71,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-aky-2004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-kumar-2004&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-aky-2004&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-kumar-2004&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-aky-2004&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-kumar-2004&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -92,10 +92,10 @@
 
 ## 📫 Connect With Me
 <p align="left">
-<a href="https://github.com/Ashutosh-aky-2004">
+<a href="https://github.com/Ashutosh-kumar-2004">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/ashutosh-kumar-yadav-b9b297298/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
